@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Рабочий стол\Geekbrains\Контрольная работа 1 семестр\Ex\bin\Debug\net6.0\Ex.exe
+C:\Users\PC\OneDrive\Рабочий стол\Geekbrains\Контрольная работа 1 семестр\Ex\bin\Debug\net6.0\Ex.deps.json
+C:\Users\PC\OneDrive\Рабочий стол\Geekbrains\Контрольная работа 1 семестр\Ex\bin\Debug\net6.0\Ex.runtimeconfig.json
+C:\Users\PC\OneDrive\Рабочий стол\Geekbrains\Контрольная работа 1 семестр\Ex\bin\Debug\net6.0\Ex.dll
+C:\Users\PC\OneDrive\Рабочий стол\Geekbrains\Контрольная работа 1 семестр\Ex\bin\Debug\net6.0\Ex.pdb
+C:\Users\PC\OneDrive\Рабочий стол\Geekbrains\Контрольная работа 1 семестр\Ex\obj\Debug\net6.0\Ex.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Рабочий стол\Geekbrains\Контрольная работа 1 семестр\Ex\obj\Debug\net6.0\Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Рабочий стол\Geekbrains\Контрольная работа 1 семестр\Ex\obj\Debug\net6.0\Ex.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Рабочий стол\Geekbrains\Контрольная работа 1 семестр\Ex\obj\Debug\net6.0\Ex.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Рабочий стол\Geekbrains\Контрольная работа 1 семестр\Ex\obj\Debug\net6.0\Ex.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Рабочий стол\Geekbrains\Контрольная работа 1 семестр\Ex\obj\Debug\net6.0\Ex.dll
+C:\Users\PC\OneDrive\Рабочий стол\Geekbrains\Контрольная работа 1 семестр\Ex\obj\Debug\net6.0\refint\Ex.dll
+C:\Users\PC\OneDrive\Рабочий стол\Geekbrains\Контрольная работа 1 семестр\Ex\obj\Debug\net6.0\Ex.pdb
+C:\Users\PC\OneDrive\Рабочий стол\Geekbrains\Контрольная работа 1 семестр\Ex\obj\Debug\net6.0\Ex.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Рабочий стол\Geekbrains\Контрольная работа 1 семестр\Ex\obj\Debug\net6.0\ref\Ex.dll
